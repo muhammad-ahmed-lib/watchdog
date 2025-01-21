@@ -1,0 +1,182 @@
+{
+  "project_info": {
+    "project_number": "989142206614",
+    "firebase_url": "https://journal-diary-d2eeb-default-rtdb.firebaseio.com",
+    "project_id": "journal-diary-d2eeb",
+    "storage_bucket": "journal-diary-d2eeb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989142206614:android:071f67f609f36c8694dab7",
+        "android_client_info": {
+          "package_name": "com.ask.technologies.fcm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnnI1v-cMeEGSnpSD1cue6P5YilGMkvGc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989142206614:android:6d9ff6cdf746f38a94dab7",
+        "android_client_info": {
+          "package_name": "com.ask.technologies.watchdog"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnnI1v-cMeEGSnpSD1cue6P5YilGMkvGc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989142206614:android:56d9196855dc9d7f94dab7",
+        "android_client_info": {
+          "package_name": "com.daily.dairy.journal.dairywithlock.dairywithaudio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnnI1v-cMeEGSnpSD1cue6P5YilGMkvGc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989142206614:android:79621a4517b7d70594dab7",
+        "android_client_info": {
+          "package_name": "com.example.veterinaryhub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnnI1v-cMeEGSnpSD1cue6P5YilGMkvGc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989142206614:android:69ac3f47f9a5a7d494dab7",
+        "android_client_info": {
+          "package_name": "com.my.daily.diary.journal.diarywithaudio.diarywithlock"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnnI1v-cMeEGSnpSD1cue6P5YilGMkvGc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989142206614:android:cc6c2f3dcb1a784894dab7",
+        "android_client_info": {
+          "package_name": "com.my.daily.diary.journal.diarywithlock.diarywithaudio.diarywithsecret"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnnI1v-cMeEGSnpSD1cue6P5YilGMkvGc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989142206614:android:9172cb508fd282a494dab7",
+        "android_client_info": {
+          "package_name": "com.rohit.hellobuddy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnnI1v-cMeEGSnpSD1cue6P5YilGMkvGc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989142206614:android:fe9fc154d1b9a09b94dab7",
+        "android_client_info": {
+          "package_name": "io.homeassistant.companion.android"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnnI1v-cMeEGSnpSD1cue6P5YilGMkvGc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989142206614:android:702f721d437fe43794dab7",
+        "android_client_info": {
+          "package_name": "io.homeassistant.companion.android.debug"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnnI1v-cMeEGSnpSD1cue6P5YilGMkvGc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
