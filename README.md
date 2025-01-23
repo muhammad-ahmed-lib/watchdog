@@ -20,6 +20,8 @@ Add this to your app's build.gradle:
 
 gradle
 
+maven { url 'https://jitpack.io' }
+
 dependencies {
  
     implementation 'com.github.muhammad-ahmed-lib:watchdog:beta-1.0.0'
